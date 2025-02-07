@@ -11,8 +11,9 @@ No pretende ser un glosario muy preciso (para eso están los enlaces), más bien
 * [SCM](#scm-source-control-management) *(Source Control Management)*
 * [Git](#git)
 * [GitHub](#github)
+* [GitFlow](#gitflow)
 * [Shell](#shell)
-* [Bash](#bash-bourne-agin-shell)
+* [Bash](#bash-bourne-agin-shell) *(Bourne-again shell)*
 * [Git Bash](#git-bash)
 * [VSC](#vsc-visual-studio-code) *(Visual Studio Code)*
 * [API](#api-application-programming-interface) *(Application Programming Interface)*
@@ -27,11 +28,11 @@ No pretende ser un glosario muy preciso (para eso están los enlaces), más bien
 * [Vite](#vite)
 * [Surge](#surge)
 * [ESLint](#eslint)
-* [HTTP](#http-xxx)
+* [HTTP](#http-xxx) *(Hypertext Transfer Protocol)*
 * [Middleware](#middleware)
 * [bcrypt](#bcrypt)
 * [React Router](#react-router-xxx)
-* [dotenv](#dotenv-env)
+* [dotenv](#dotenv-env) *(.env)*
 * [JWT](#jwt-jason-web-tokens) *(Jason Web Token)*
 
 <br>
@@ -99,6 +100,16 @@ Usamos GitHub para subir nuestra app a un repositorio de manera segura, guardand
 
 <br>
 
+### [GitFlow](https://www.atlassian.com/es/git/tutorials/comparing-workflows/gitflow-workflow)
+
+#### ¿Qué es?
+Descripción
+
+#### Uso en App
+Uso en App
+
+<br>
+
 ### [Shell](https://es.wikipedia.org/wiki/Shell_(inform%C3%A1tica))
 
 #### ¿Qué es?
@@ -112,7 +123,7 @@ Usaremos **Shell Bash** para interactuar con nuestra App y [Git](#git); y **Powe
 
 <br>
 
-### [Bash](https://es.wikipedia.org/wiki/Bash) *(Bourne-agin shell)*
+### [Bash](https://es.wikipedia.org/wiki/Bash) *(Bourne-again shell)*
 
 #### ¿Qué es?
 Bash *(Bourne-again shell)* es una **interfaz de usuario de línea de comandos** popular, específicamente un [*shell*](#shell) de Unix; así como un lenguaje de *scripting*. Bash es un intérprete de órdenes que generalmente se ejecuta en una ventana de texto donde el usuario escribe órdenes en modo texto.
@@ -266,7 +277,7 @@ Definición
 
 <br>
 
-### [HTTP](www.xxx.com) *(XXX)*
+### [HTTP](www.xxx.com) *(Hypertext Transfer Protocol)*
 
 #### ¿Qué es?
 Definición
