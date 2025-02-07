@@ -20,6 +20,8 @@ Permite crear **ramas** *(branches)* para hacer pruebas, corregir errores o agre
 ### Seguridad
 Agrega una suma de comprobación a cada uno de sus archivos y commits, lo que garantiza la integridad y autenticidad de los datos.
 
+<br>
+
 ## Resumen de uso común
 
 Cada desarrollador crea un repositorio local y clona el proyecto existente o inicia uno nuevo con el comando ```git init```

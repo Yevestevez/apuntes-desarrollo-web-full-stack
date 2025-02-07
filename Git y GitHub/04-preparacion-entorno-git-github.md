@@ -6,6 +6,7 @@
 
 Descargamos e instalamos [Git Bash](../GLOSARIO.md#git-bash) desde [gitforwindows.org](https://gitforwindows.org/), esto nos permitirá acceder al terminal *Mintty*, desde donde podremos configurar e interactuar con nuestro futuro repositorio.
 
+<br>
 
 ## 2. Instalación de **Visual Studio Code**
 
@@ -13,6 +14,7 @@ Descargamos e instalamos [Git Bash](../GLOSARIO.md#git-bash) desde [gitforwindow
 
 [Visual Studio Code](../GLOSARIO.md#vsc-visual-studio-code) será nuestro editor de código fuente. Lo descargamos e instalamos  desde [code.visualstudio.com](https://code.visualstudio.com/Download).
 
+<br>
 
 ## 3. Instalación de Node.js
 
@@ -20,8 +22,9 @@ Descargamos e instalamos [Git Bash](../GLOSARIO.md#git-bash) desde [gitforwindow
 
 [Node.js](../GLOSARIO.md#nodejs) será nuestro entorno de ejecución de [JavaScript](../GLOSARIO.md#javascript-js) Lo descargamos e instalamos desde [nodejs.org](https://nodejs.org/en).
 
+<br>
 
-## 5. Creación de los directorios (carpetas) de nuestro futuro repositorio
+## 4. Creación de los directorios (carpetas) de nuestro futuro repositorio
 
 Vamos a configurar los directorios desde la consola de [Git Bash](../GLOSARIO.md#git-bash) para ir cogiendo soltura.
 
