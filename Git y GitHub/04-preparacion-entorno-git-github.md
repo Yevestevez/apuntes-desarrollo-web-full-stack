@@ -38,4 +38,4 @@ Con el comando ```ls``` mostramos un listado de los directorios (carpetas) dentr
 
 Ahora creamos el directorio ***repo-test*** con el comando ```mkdir repo-test```.  Posteriormente lo convertiremos en nuestro repositorio.
 
-A continuación aprenderemos a [crear nuestro primer repositorio en GitHub](./05-creacion-repositorio-github.md) para posteriormente poder entender el [flujo de trabajo](./06-flujo-trabajo-git-flow.md) *(workflow)* de [Git](../GLOSARIO.md#git) [*(GitFlow)*](../GLOSARIO.md#gitflow) antes de [inicializar nuestro primer repositorio local](./07-inicializacion-repositorio-local.md).
+A continuación aprenderemos a [crear nuestro primer repositorio en GitHub](./05-creacion-repositorio-github.md) para posteriormente poder entender el [flujo de trabajo](./06-flujo-trabajo-git-flow.md) *(workflow)* de [Git](../GLOSARIO.md#git) [*(GitFlow)*](../GLOSARIO.md#gitflow) antes de [inicializar nuestro primer repositorio local](./07-inicializacion-sincronizacion-repositorio-local.md).
