@@ -57,6 +57,12 @@ El comando *cat* seguido del nombre de un fichero **nos da más información sob
 ```git branch```<br>
 Muestra la **rama del repositorio *origin*** al que estamos conectados actualmente
 
+```git branch -c nombre-rama```<br>
+**Crea una rama** en el repositorio ***local***
+
+```git push --set-upstream origin develop``` o ```git push -u origin develop```<br>
+**Sube y vincula una nueva rama local** con el repositorio *origin*
+
 ```git switch nombre-rama```<br>
 **Cambia la rama del repositorio** en la que estamos trabajando. Ejemplo: para ir a la rama *main* escribiremos ```git switch main```
 
@@ -74,3 +80,9 @@ Muestra la **rama del repositorio *origin*** al que estamos conectados actualmen
 
 ```git status```<br>
 **Muestra el estado del repositorio *local* y *origin*** y su **sincronización**. Útil para ver qué archivos han sido modificados, cuales están listos para ser confirmados *(commit)* y qué archivos no están rastreados por [Git](../GLOSARIO.md/#git).
+
+```git fetch```<br>
+**Descarga los cambios** de la rama activa del repositorio *origin* a la misma rama del repositorio *local*
+
+```git merge```<br>
+**Fusiona los cambios** de la rama activa del repositorio *origin* con misma rama del repositorio *local*
