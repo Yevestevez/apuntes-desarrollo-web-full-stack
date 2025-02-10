@@ -1,4 +1,4 @@
-# Inicialización y sincronización de un repositorio local ***(Work In Progress)***
+# Inicialización y sincronización de un repositorio local
 
 ## 1. Inicialización del repositorio *(git init)*
 
