@@ -34,6 +34,7 @@ No pretende ser un glosario muy preciso (para eso están los enlaces), más bien
 * [React Router](#react-router-xxx)
 * [dotenv](#dotenv-env) *(.env)*
 * [JWT](#jwt-jason-web-tokens) *(Jason Web Token)*
+* [Jira](#jira)
 
 <br>
 
@@ -328,6 +329,16 @@ Definición
 <br>
 
 ### [JWT](www.xxx.com) *(Jason Web Tokens)*
+
+#### ¿Qué es?
+Definición
+
+#### Uso en App
+¿Para que lo usamos en nuestra App?
+
+<br>
+
+### [Jira](www.xxx.com)
 
 #### ¿Qué es?
 Definición
