@@ -70,13 +70,13 @@ Podemos encontrar ficheros a ignorar en [gitignore.io](https://www.toptal.com/de
 
 Para propagar un cambio en un archivo del **repositorio central** *(upstream)* en [GitHub](../GLOSARIO.md#github) a nuestro repositorio *origin* usaremos el botón ***Sync fork***. Los cambios en la rama *main* del repositorio *upstream* se han sincronizado con la rama *main* de nuestro repositorio *origin*.
 
-![Sync fork en GitHub](./img/Repo-syncfork.jpg)
+![Sync fork en GitHub](../00_img/Repo-syncfork.jpg)
 
 Para propagar ese cambio a nuestra rama *develop* debemos hacer un ***Pull Request (pr).***
 
 Es importante fijarse en el orden del *pull request*, la rama “madre” quedará a la derecha y en la que queremos aplicar los cambios a la izquierda, con la flecha apuntando hacia ella, como en el siguiente ejemplo:
 
-![Pull request en GitHub](./img/Repo-pullrequest.jpg)
+![Pull request en GitHub](../00_img/Repo-pullrequest.jpg)
 
 Al pulsar el botón verde ***Create pull request*** en la pestaña ***Pull requests*** de nuestro repositorio nos avisará de una nueva *pr*, ahí podremos ver el autor de la propuesta, los archivos implicados e incluso las diferencias entre el archivo original y el propuesto. Cuando estemos seguros de que todo es correcto, aceptamos la *pr* mediante el botón ***Merge pull request***.
 
@@ -90,7 +90,7 @@ Si estábamos trabajando en la rama *develop* esto descarga (```fetch```) los ca
 
 Recordemos el esquema de trabajo de [GitFlow](../GLOSARIO.md#gitflow):
 
-![Esquema de repositorios y ramas usando GitFlow](./img/repositories-branches-gitflow.svg)
+![Esquema de repositorios y ramas usando GitFlow](../00_img/repositories-branches-gitflow.svg)
 
 <br>
 

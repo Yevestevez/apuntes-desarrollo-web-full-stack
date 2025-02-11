@@ -14,7 +14,7 @@ Para ilustrar mejor este ejemplo vamos a imaginar que trabajamos en el repositor
 
 Cada desarrollador duplica (con ***fork***) la rama *main* de *repo-test* desde ***www.github.com/Repo-creator/repo-test***
 
-![Un repositorio de GitHub](./img/Repo-fork.jpg)
+![Un repositorio de GitHub](../00_img/Repo-fork.jpg)
 
 <br>
 
@@ -28,6 +28,6 @@ Instancias de los repositorios:
 * ***origin***: repositorio en [GitHub](../GLOSARIO.md#github), duplicado del central mediante *fork* por el desarrollador.
 * ***local***: repositorio local en la máquina del desarrollador
 
-![Esquema de repositorios y ramas usando GitFlow](./img/repositories-branches-gitflow.svg)
+![Esquema de repositorios y ramas usando GitFlow](../00_img/repositories-branches-gitflow.svg)
 
 A continuación veremos como [inicializar nuestro primer repositorio local](./07-inicializacion-sincronizacion-repositorio-local.md) y sincronizarlo con el repositorio *origin*.

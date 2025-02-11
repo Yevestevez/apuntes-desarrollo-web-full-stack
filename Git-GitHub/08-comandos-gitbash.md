@@ -1,4 +1,4 @@
-<img src="../Git-GitHub/img/gitforwindows_logo.png" alt="Logo de Git Bash" height="100"><br>
+<img src="../00_img/gitforwindows_logo.png" alt="Logo de Git Bash" height="100"><br>
 
 # Comandos de GitBash
 Un listado de los comandos [Git](../GLOSARIO.md#git) y [Bash](../GLOSARIO.md#bash-bourne-again-shell) más habituales que usaremos en nuestra consola de [Git Bash](../GLOSARIO.md#git-bash).
@@ -49,7 +49,7 @@ El comando *cat* seguido del nombre de un fichero **nos da más información sob
 
 <br>
 
-<img src="../Git-GitHub/img/git_logo.png" alt="Logo de Git" height="50"><br>
+<img src="../00_img/git_logo.png" alt="Logo de Git" height="50"><br>
 ## [Comandos Git](https://www.atlassian.com/es/git/glossary#commands)
 
 ```git init```<br>

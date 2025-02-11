@@ -1,4 +1,4 @@
-<img src="../Git-GitHub/img/github-mark-white.svg" alt="Logo de GitHub" height="100"><br>
+<img src="../00_img/github-mark-white.svg" alt="Logo de GitHub" height="100"><br>
 
 # GitHub
 

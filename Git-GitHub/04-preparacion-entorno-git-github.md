@@ -2,7 +2,7 @@
 
 ## 1. Instalación de **Git Bash**
 
-<img src="../Git-GitHub/img/gitforwindows_logo.png" alt="Logo de Git Bash" height="25">
+<img src="../00_img/gitforwindows_logo.png" alt="Logo de Git Bash" height="25">
 
 Descargamos e instalamos [Git Bash](../GLOSARIO.md#git-bash) desde [gitforwindows.org](https://gitforwindows.org/), esto nos permitirá acceder al terminal *Mintty*, desde donde podremos configurar e interactuar con nuestro futuro repositorio.
 
@@ -10,7 +10,7 @@ Descargamos e instalamos [Git Bash](../GLOSARIO.md#git-bash) desde [gitforwindow
 
 ## 2. Instalación de **Visual Studio Code**
 
-<img src="../Git-GitHub/img/VisualStudioCode_logo.png" alt="Logo de Visual Studio Code" height="25">
+<img src="../00_img/VisualStudioCode_logo.png" alt="Logo de Visual Studio Code" height="25">
 
 [Visual Studio Code](../GLOSARIO.md#vsc-visual-studio-code) será nuestro editor de código fuente. Lo descargamos e instalamos  desde [code.visualstudio.com](https://code.visualstudio.com/Download).
 
@@ -18,7 +18,7 @@ Descargamos e instalamos [Git Bash](../GLOSARIO.md#git-bash) desde [gitforwindow
 
 ## 3. Instalación de Node.js
 
-<img src="../Git y GitHub/img/jsIconGreen.svg" alt="Logo de Node.js" height="25">
+<img src="../00_img/jsIconGreen.svg" alt="Logo de Node.js" height="25">
 
 [Node.js](../GLOSARIO.md#nodejs) será nuestro entorno de ejecución de [JavaScript](../GLOSARIO.md#javascript-js) Lo descargamos e instalamos desde [nodejs.org](https://nodejs.org/en).
 

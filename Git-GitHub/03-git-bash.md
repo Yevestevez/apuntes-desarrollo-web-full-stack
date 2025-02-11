@@ -1,4 +1,4 @@
-<img src="../Git-GitHub/img/gitforwindows_logo.png" alt="Logo de Git Bash" height="100"><br>
+<img src="../00_img/gitforwindows_logo.png" alt="Logo de Git Bash" height="100"><br>
 
 # Git Bash
 
