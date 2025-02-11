@@ -1,6 +1,4 @@
-<img src="../../../00_img/javascript-icon.svg" alt="Logo de JavaScript" height="50" style="margin-right: 20px">
-<img src="../../../00_img/jsIconGreen.svg" alt="Logo de Node.js" height="50" style="margin-right: 20px">
-<img src="../../../00_img/Express.svg" alt="Logo Express" height="50">
+<img src="../../../00_img/javascript-icon.svg" alt="Logo de JavaScript" height="50" style="margin-right: 20px"> <img src="../../../00_img/jsIconGreen.svg" alt="Logo de Node.js" height="50" style="margin-right: 20px"> <img src="../../../00_img/Express.svg" alt="Logo Express" height="50">
 
 <br>
 
