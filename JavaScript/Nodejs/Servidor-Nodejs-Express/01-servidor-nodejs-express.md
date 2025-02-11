@@ -1,7 +1,5 @@
 <img src="../../../00_img/javascript-icon.svg" alt="Logo de JavaScript" height="50" style="margin-right: 20px"> <img src="../../../00_img/jsIconGreen.svg" alt="Logo de Node.js" height="50" style="margin-right: 20px"> <img src="../../../00_img/Express.svg" alt="Logo Express" height="50">
 
-<br>
-
 # Servidor en Node.js con Express
 
 Vamos a aprender a **crear un servidor básico** con [JavaScript](../../../GLOSARIO.md#javascript-js), en [Node.js](../../../GLOSARIO.md#nodejs) usando la librería [Express](../../../GLOSARIO.md#express) de manera sencilla y rápida. Al terminar tendremos un servidor *escuchando* en un puerto local de nuestro ordenador, al que podremos acceder desde nuestro navegador.
