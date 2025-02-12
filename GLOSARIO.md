@@ -31,7 +31,7 @@ No pretende ser un glosario muy preciso (para eso están los enlaces), más bien
 * [HTTP](#http-xxx) *(Hypertext Transfer Protocol)*
 * [Middleware](#middleware)
 * [bcrypt](#bcrypt)
-* [React Router](#react-router-xxx)
+* [React Router DOM](#react-router-dom)
 * [dotenv](#dotenv-env) *(.env)*
 * [JWT](#jwt-jason-web-tokens) *(Jason Web Token)*
 * [Jira](#jira)
@@ -308,7 +308,7 @@ Definición
 
 <br>
 
-### [React Router](www.xxx.com) *(XXX)*
+### [React Router DOM](www.xxx.com)
 
 #### ¿Qué es?
 Definición
