@@ -1,8 +1,8 @@
-<img src="../../../00_img/MongoDB_Logo.svg" height="50" style="background-color: white; padding: 20"><br>
+<img src="../../00_img/MongoDB_Logo.svg" height="50" style="background-color: white; padding: 20"><br>
 
 # Comandos de MongoDB
 
-Un listado de comandos para interactuar con las bases de datos de [MongoDB](../../../GLOSARIO.md#mongodb). En Windows usaremos la consola de ***Windows PowerShell***.
+Un listado de comandos para interactuar con las bases de datos de [MongoDB](../../GLOSARIO.md#mongodb). En Windows usaremos la consola de ***Windows PowerShell***.
 
 ```show databases```<br>
 **Muestra las bases de datos** de nuestro sistema, por defecto aparecerán admin, config, local y test (nuestra *db* recién creada)

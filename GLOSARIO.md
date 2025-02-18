@@ -35,6 +35,7 @@ No pretende ser un glosario muy preciso (para eso están los enlaces), más bien
 * [dotenv](#dotenv-env) *(.env)*
 * [JWT](#jwt-jason-web-tokens) *(Jason Web Token)*
 * [Jira](#jira)
+* [Tailwind CSS](#tailwind-css)
 
 <br>
 
@@ -346,6 +347,15 @@ Definición
 #### Uso en App
 ¿Para que lo usamos en nuestra App?
 
+<br>
+
+### [Tailwind CSS](https://tailwindcss.com/)
+
+#### ¿Qué es?
+Definición
+
+#### Uso en App
+¿Para que lo usamos en nuestra App?
 
 <!-- <br>
 

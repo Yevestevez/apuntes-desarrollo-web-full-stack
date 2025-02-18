@@ -2,13 +2,13 @@
 
 ## 1. Instalación del *driver* de MongoDB
 
-Instalamos el paquete de [MongoDB](../../../GLOSARIO.md#mongodb) (usando [npm](../../../GLOSARIO.md#npm-node-package-manager)) en el proyecto donde queramos conectar con la base de datos con el comando ```npm i mongodb```.
+Instalamos el paquete de [MongoDB](../../GLOSARIO.md#mongodb) (usando [npm](../../GLOSARIO.md#npm-node-package-manager)) en el proyecto donde queramos conectar con la base de datos con el comando ```npm i mongodb```.
 
 <br>
 
 ## 2. Conexión de la base de datos con nuestro archivo JavaScript
 
-En el siguiente ejemplo (comentado) conectaremos a la base de datos de [MongoDB](../../../GLOSARIO.md#mongodb) desde nuestro archivo [JavaScript](../../../GLOSARIO.md#javascript-js).
+En el siguiente ejemplo (comentado) conectaremos a la base de datos de [MongoDB](../../GLOSARIO.md#mongodb) desde nuestro archivo [JavaScript](../../GLOSARIO.md#javascript-js).
 
 ```js
 import mongodb from 'mongodb'; // Importamos mongodb del paquete previamente instalado

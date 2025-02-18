@@ -2,7 +2,7 @@
 
 ## ¿Qué es React Router DOM?
 
-[React Router DOM](../../../GLOSARIO.md#react-router-dom) es una **biblioteca para manejar la navegación** en aplicaciones [React](../../../GLOSARIO.md#react). Permite **definir rutas y cambiar de vista** sin recargar la página, creando una experiencia de aplicación de una sola página *(SPA)*.
+[React Router DOM](../../GLOSARIO.md#react-router-dom) es una **biblioteca para manejar la navegación** en aplicaciones [React](../../GLOSARIO.md#react). Permite **definir rutas y cambiar de vista** sin recargar la página, creando una experiencia de aplicación de una sola página *(SPA)*.
 
 ## ¿Cómo funciona?
 
@@ -10,7 +10,7 @@ Veamos como funciona con un ejemplo muy básico.
 
 ### 1. Instalación
 
-Instalamos [React Router DOM](../../../GLOSARIO.md#react-router-dom) en nuestro proyecto con el comando ```npm i react-router-dom```.
+Instalamos [React Router DOM](../../GLOSARIO.md#react-router-dom) en nuestro proyecto con el comando ```npm i react-router-dom```.
 
 ### 2. Definición de rutas
 
@@ -87,7 +87,7 @@ function Product() {
 
 En [este ejemplo](./react-router-dom-test/) veremos una sencilla app en la que podemos hacer login para acceder a la *home* (solo navegación) y los siguiente elementos:
 
-* ***BrowserRouter*** → Envuelve la app para habilitar [React Router DOM](../../../GLOSARIO.md#react-router-dom) en *main.jsx*.
+* ***BrowserRouter*** → Envuelve la app para habilitar [React Router DOM](../../GLOSARIO.md#react-router-dom) en *main.jsx*.
 * ***Routes y Route*** → Definen las rutas en *App.jsx*.
 * ***Navigate*** → Redirige automáticamente según si el usuario está autenticado.
 * ***useNavigate()*** → Permite cambiar de ruta manualmente en *Login.jsx* y *Home.jsx*.
