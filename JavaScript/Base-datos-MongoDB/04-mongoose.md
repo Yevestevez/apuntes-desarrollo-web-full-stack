@@ -2,20 +2,20 @@
 
 ## 1. ¿Qué es Mongoose?
 
-[Mongoose](../../../GLOSARIO.md#mongoose) es una biblioteca de modelado para [MongoDB](../../../GLOSARIO.md#mongodb) en [Node.js](../../../GLOSARIO.md#nodejs) que se encarga de facilitarnos interactuar con nuestra base de datos.
+[Mongoose](../../GLOSARIO.md#mongoose) es una biblioteca de modelado para [MongoDB](../../GLOSARIO.md#mongodb) en [Node.js](../../GLOSARIO.md#nodejs) que se encarga de facilitarnos interactuar con nuestra base de datos.
 
 <br>
 
 
 ## 2. Desinstalación de MongoDB
 
-Antes de instalar [Mongoose](../../../GLOSARIO.md#mongoose) desinstalamos [MongoDB](../../../GLOSARIO.md#mongodb) si lo teníamos instalado en nuestro proyecto, ya que este se volverá a instalar como una dependencia de [Mongoose](../../../GLOSARIO.md#mongoose). Lo haremos desde la consola con el comando ```npm u mongodb```.
+Antes de instalar [Mongoose](../../GLOSARIO.md#mongoose) desinstalamos [MongoDB](../../GLOSARIO.md#mongodb) si lo teníamos instalado en nuestro proyecto, ya que este se volverá a instalar como una dependencia de [Mongoose](../../GLOSARIO.md#mongoose). Lo haremos desde la consola con el comando ```npm u mongodb```.
 
 <br>
 
 ## 3. Instalación de Mongoose
 
-Instalamos [Mongoose](../../../GLOSARIO.md#mongoose) desde la consola mediante [npm](../../../GLOSARIO.md#npm-node-package-manager) con el siguiente comando (siempre en la carpeta de nuestro proyecto) ```npm i mongoose```.
+Instalamos [Mongoose](../../GLOSARIO.md#mongoose) desde la consola mediante [npm](../../GLOSARIO.md#npm-node-package-manager) con el siguiente comando (siempre en la carpeta de nuestro proyecto) ```npm i mongoose```.
 
 <br>
 
@@ -25,7 +25,7 @@ Los esquemas y modelos sirven para estructurar y manejar los datos en una base d
 
 ### Esquemas *(Schemas)*
 
-Un esquema **define la estructura de los documentos** en una colección de [MongoDB](../../../GLOSARIO.md#mongodb). Es como una plantilla que especifica qué campos tendrá un documento y qué tipo de datos debe contener cada campo.
+Un esquema **define la estructura de los documentos** en una colección de [MongoDB](../../GLOSARIO.md#mongodb). Es como una plantilla que especifica qué campos tendrá un documento y qué tipo de datos debe contener cada campo.
 
 Ejemplo:
 
@@ -49,17 +49,17 @@ Ejemplo de un modelo basado en el esquema anterior:
 ```js
 const Receta = mongoose.model('Receta', recetaSchema);
 ```
-Aquí, ```Receta``` es el modelo que representa la colección ```recetas``` en la base de datos ([Mongoose](../../../GLOSARIO.md#mongoose) pluraliza el nombre automáticamente).
+Aquí, ```Receta``` es el modelo que representa la colección ```recetas``` en la base de datos ([Mongoose](../../GLOSARIO.md#mongoose) pluraliza el nombre automáticamente).
 
 <br>
 
 ## 5. Implementación de Mongoose en JavaScript
 
-Para implementar [Mongoose](../../../GLOSARIO.md#mongoose) en [JavaScript](../../../GLOSARIO.md#javascript-js) seguimos los siguientes pasos:
+Para implementar [Mongoose](../../GLOSARIO.md#mongoose) en [JavaScript](../../GLOSARIO.md#javascript-js) seguimos los siguientes pasos:
 
-1. Importar [Mongoose](../../../GLOSARIO.md#mongoose)
+1. Importar [Mongoose](../../GLOSARIO.md#mongoose)
 2. Crear esquemas (*Schema*) y modelos (*model*)
-3. Conectar a [MongoDB](../../../GLOSARIO.md#mongodb) mediante [Mongoose](../../../GLOSARIO.md#mongoose)
+3. Conectar a [MongoDB](../../GLOSARIO.md#mongodb) mediante [Mongoose](../../GLOSARIO.md#mongoose)
 
 Ejemplo (comentado):
 

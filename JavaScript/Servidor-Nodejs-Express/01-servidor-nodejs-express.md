@@ -1,8 +1,8 @@
-<img src="../../../00_img/javascript-icon.svg" alt="Logo de JavaScript" height="50" style="margin-right: 20px"> <img src="../../../00_img/jsIconGreen.svg" alt="Logo de Node.js" height="50" style="margin-right: 20px"> <img src="../../../00_img/Express.svg" alt="Logo Express" height="50">
+<img src="../../00_img/javascript-icon.svg" alt="Logo de JavaScript" height="50" style="margin-right: 20px"> <img src="../../00_img/jsIconGreen.svg" alt="Logo de Node.js" height="50" style="margin-right: 20px"> <img src="../../00_img/Express.svg" alt="Logo Express" height="50">
 
 # Servidor en Node.js con Express
 
-Vamos a aprender a **crear un servidor básico** con [JavaScript](../../../GLOSARIO.md#javascript-js), en [Node.js](../../../GLOSARIO.md#nodejs) usando la librería [Express](../../../GLOSARIO.md#express) de manera sencilla y rápida. Al terminar tendremos un servidor *escuchando* en un puerto local de nuestro ordenador, al que podremos acceder desde nuestro navegador.
+Vamos a aprender a **crear un servidor básico** con [JavaScript](../../GLOSARIO.md#javascript-js), en [Node.js](../../GLOSARIO.md#nodejs) usando la librería [Express](../../GLOSARIO.md#express) de manera sencilla y rápida. Al terminar tendremos un servidor *escuchando* en un puerto local de nuestro ordenador, al que podremos acceder desde nuestro navegador.
 
 Aquí tenemos [**ejemplo**](./servidor-nodejs-express-test/) de como debería quedar el servidor una vez finalizados todos los pasos.
 
@@ -10,12 +10,12 @@ Aquí tenemos [**ejemplo**](./servidor-nodejs-express-test/) de como debería qu
 
 ## 1. Configuración de entorno
 
-Comprobamos que tenemos [Node.js](../../../GLOSARIO.md#nodejs) y [npm](../../../GLOSARIO.md#npm-node-package-manager) instalado usando los siguientes comandos en la consola: ```node -v``` y
+Comprobamos que tenemos [Node.js](../../GLOSARIO.md#nodejs) y [npm](../../GLOSARIO.md#npm-node-package-manager) instalado usando los siguientes comandos en la consola: ```node -v``` y
 ```npm -v```.
 
 Podemos comprobar y descargar las versiones actuales aquí:
-* [Node.js](../../../GLOSARIO.md#nodejs): https://nodejs.org/en/download (descargamos la última versión desde el link)
-* [npm](../../../GLOSARIO.md#npm-node-package-manager): https://www.npmjs.com/package/npm (instalamos la última versión de manera **global** con el comando ```npm install -g npm``` o solo en el **proyecto actual** con ```npm i npm```)
+* [Node.js](../../GLOSARIO.md#nodejs): https://nodejs.org/en/download (descargamos la última versión desde el link)
+* [npm](../../GLOSARIO.md#npm-node-package-manager): https://www.npmjs.com/package/npm (instalamos la última versión de manera **global** con el comando ```npm install -g npm``` o solo en el **proyecto actual** con ```npm i npm```)
 
 <br>
 
@@ -35,7 +35,7 @@ Creamos el archivo *package.json* con la configuración básica con ```npm init 
 
 ## 3. Instalación de Express
 
-Instalamos [Express](../../../GLOSARIO.md#express) con el comando ```npm install express``` o ```npm i express```.
+Instalamos [Express](../../GLOSARIO.md#express) con el comando ```npm install express``` o ```npm i express```.
 
 <br>
 
