@@ -48,7 +48,7 @@ export default defineConfig({
 Importamos [Tailwind CSS](../../GLOSARIO.md#tailwind-css) en nuestro archivo *main.css*:
 
 ```css
-import tailwindcss from "@tailwindcss/vite"
+@import "tailwindcss"
 ```
 
 ### 4. Enlace del archivo CSS con el HTML
